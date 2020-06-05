@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DotaClickGame/static/css/main.8fbcdcbc.chunk.css",
+    "main.js": "/DotaClickGame/static/js/main.7bc973ef.chunk.js",
+    "main.js.map": "/DotaClickGame/static/js/main.7bc973ef.chunk.js.map",
+    "runtime~main.js": "/DotaClickGame/static/js/runtime~main.b5e4988a.js",
+    "runtime~main.js.map": "/DotaClickGame/static/js/runtime~main.b5e4988a.js.map",
+    "static/js/2.6efc73d3.chunk.js": "/DotaClickGame/static/js/2.6efc73d3.chunk.js",
+    "static/js/2.6efc73d3.chunk.js.map": "/DotaClickGame/static/js/2.6efc73d3.chunk.js.map",
+    "index.html": "/DotaClickGame/index.html",
+    "precache-manifest.9831be62f743101f6a9a9cc5359bad80.js": "/DotaClickGame/precache-manifest.9831be62f743101f6a9a9cc5359bad80.js",
+    "service-worker.js": "/DotaClickGame/service-worker.js",
+    "static/css/main.8fbcdcbc.chunk.css.map": "/DotaClickGame/static/css/main.8fbcdcbc.chunk.css.map"
+  }
+}
